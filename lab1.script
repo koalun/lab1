@@ -1,0 +1,27 @@
+命令稿啟動於 2018年03月13日 下午 10:59:46
+]0;~
+[32mUSER@DESKTOP-V95QOQP [33m~[0m
+$ git add .[1Pinitadd .[C[Cscript lab1.script[C[C[5Pgit config -l-global user.name "koalun"email "neric7634777@gmail.com"[C[C[36Pmv lab1.script lab1[C[C[4Pcat lab1.script[C[Cgit clone https://github.com/koalun/lab1.git[C[C[C[C[C[C[Config -l[K[C[C[2Pwhoami; pwd[C[C[2Premote -v[C[C[4@git [C[C[C[C[C[C[C[C[C[C[C[4P[C[C[C[C[C[C[C[C[C[C[Cwhoami; pwd
+USER
+/home/USER
+]0;~
+[32mUSER@DESKTOP-V95QOQP [33m~[0m
+$ whoami; pwd[C[C[2Pgit add .[1Pinitadd .[C[Cscript lab1.script[C[C[5Pgit config -l-global user.name "koalun"email "neric7634777@gmail.com"[C[C[36Pmv lab1.script lab1[C[C[4Pcat lab1.script[C[Cmv lab1.script lab1[C[Cgit config --global user.email "neric7634777@gmail.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pname "koalun"[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl[K[C[Cscript lab1.script[C[C[9Pgit add .[1Pinitadd .[C[Cscript lab1.script[C[C[5Pgit config -l
+user.email=neric7634777@gmail.com
+user.name=koalun
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+]0;~
+[32mUSER@DESKTOP-V95QOQP [33m~[0m
+$ git config -l[C[C[2Pwhoami; pwd[C[C[2Pgit add .[1Pinitadd .[C[Cscript lab1.script[C[C[5Pgit config -l-global user.name "koalun"email "neric7634777@gmail.com"[C[C[36Pmv lab1.script lab1[C[C[4Pcat lab1.script[C[Cgit clone https://github.com/koalun/lab1.git[C[C[C[C[C[C[Config -l[K[C[C[2Pwhoami; pwd[C[C[2Premote -v[C[C[4@git [C[C[C[C[C[C[C[C[C[C[C[4Premov[C[C[C[C[C[Cgit add .[Kinitadd.[K[C[Cmv lab1.script lab1[C[C[4Pcat lab1.script[C[Cgit clone https://github.com/koalun/lab1.git[C[C[C[C[C[C[Config -l[K[C[C[2Pwhoami; pwd[C[Cgit config -llone https://github.com/koalun/lab1.git[C[C[C[C[C[C[Config -l[K[C[C[2Pwhoami; pwd[C[Cscript lab1.script[C[C[5Pgit config -l-global user.name "koalun"email "neric7634777@gmail.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pname "koalun"email "neric7634777@gmail.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl[K-global user.name"koalun"email"neric7634777@gmail.com"[C[C[C[C[C[Cadd .[K[Kinit[1Padd[C[Cmv lab1.script lab1[C[C[4Pcat lab1.script[C[C[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/koalun/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32mUSER@DESKTOP-V95QOQP [33m~[0m
+$ exit
+
+命令稿已於 2018年03月13日 下午 11:00:27
+ 完成
